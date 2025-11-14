@@ -1,1 +1,4 @@
 g
+DEBUG = True
+PORT = 8000
+MAX_UPLOAD_SIZE = 10 # MB
