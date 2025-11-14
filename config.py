@@ -1,3 +1,1 @@
-DUBUG = True
-MAX_UPLOAD_SIZE = 10 #MB
-PORT = 8000
+g
